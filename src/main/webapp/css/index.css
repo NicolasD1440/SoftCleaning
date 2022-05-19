@@ -1,0 +1,22 @@
+.contenedor{
+    border: 1px solid black;
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    margin-top: 10%;
+}
+.login{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+input{
+    margin: 5%;
+}
+.txt{
+    
+}
+.btn{
+    
+}
